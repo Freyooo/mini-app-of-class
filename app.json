@@ -1,0 +1,10 @@
+{
+  "pages": [
+    "log-in/log-in"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "HUST-BEEE1702"
+  }
+}
